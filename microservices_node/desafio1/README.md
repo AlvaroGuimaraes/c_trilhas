@@ -12,6 +12,7 @@ Implementar uma API REST (utilizando JSON) que permita consumir/trabalhar com as
     - método `GET` para listar todas as lojas ou filtrar (por estado/cidade)
         - deve ser possível listar todas as lojas cadastradas, todas de um estado e todas de um conjunto estado/cidade
 - persistência em um banco de dados SQL ou noSQL 
+- utilizar TypeScript
 - container com o ambiente completo (node)
 - documentação utilizando Swagger
 - bonus: container para a base de dados
@@ -19,7 +20,8 @@ Implementar uma API REST (utilizando JSON) que permita consumir/trabalhar com as
 
 - implementação com uso das ferramentas e tecnologias:
     - Git
-	- Docker
+    - Docker
+    - TypeScript
     - Node.js
     - Banco de Dados (Oracle, MySQL, MariaDB ou MongoDB)
     - Swagger
