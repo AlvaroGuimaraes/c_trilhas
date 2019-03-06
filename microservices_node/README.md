@@ -20,6 +20,10 @@ https://cursos.alura.com.br/course/typescript-parte1
 
 https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes
 
+https://typeorm.io/#/example-with-express
+
+https://jestjs.io/docs/en/getting-started
+
 ## Leituras
 
 http://www.tothenew.com/blog/microservices-and-node-js/
